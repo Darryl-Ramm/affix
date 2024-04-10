@@ -1,0 +1,12 @@
+ 
+// This file is automatically updated by set_built_number.sh
+//
+#ifndef version_h
+#define version_h
+
+extern const char * version_id;
+
+//The following line us updated by set_built_number.sh
+const char * version_id = "@(#)Version 0.85 (6) Copyright 2024 Darryl Ramm. Licensed under the MIT open source license. See https://github.com/Darryl-Ramm/affix";
+
+#endif /* version_h */
